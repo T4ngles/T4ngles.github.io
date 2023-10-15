@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
+#Site settings
 title: T4ngles Repos
 description: Showcasing my repos and tennis racquet webpages
+
+#Build settings
+baseurl: ""
+url: "https://username.github.io"
+theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-minimal
