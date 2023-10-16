@@ -5,6 +5,6 @@ description: Showcasing my repos and tennis racquet webpages
 #Build settings
 baseurl: ""
 url: "https://t4ngles.github.io"
-remote_theme: pages-themes/modernist@v0.2.0
-plugins:
+remote_theme: jekyll/minima
+#plugins:
 - jekyll-remote-theme
