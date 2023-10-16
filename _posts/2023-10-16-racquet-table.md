@@ -6,14 +6,12 @@ categories: table
 datatable: true
 ---
 
---------------
 ##TTD
 
-TODO: Add scripting to make table interactable and auto update
-TODO: Use bs4 and scrapy to pull data from websites like tennisonly store in a .json file
-TODO: python script to generate below table
+>TODO: Add scripting to make table interactable and auto update
+>TODO: Use bs4 and scrapy to pull data from websites like tennisonly store in a .json file
+>TODO: python script to generate below table
 
---------------
 
 | Brand | Racquet | Weight (unstrung)(grams) | Weight (strung)(grams) |
 | --- | --- | --- | --- |
