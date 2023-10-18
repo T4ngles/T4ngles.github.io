@@ -12,7 +12,7 @@ categories: table
 >TODO: python script to generate below table
 
 
-| Brand | Racquet Name | Headsize(cm^2) | Length(cm) | Weight (unstrung)(grams) | Weight (strung)(grams) | Balance(cm) | Swingweight | Stiffness | Beam Width(mm) | String Pattern | 
+| Brand | <div style="width:290px">Racquet Name </div> | Headsize (cm^2) | Length (cm) | Weight (unstrung)(grams) | Weight (strung)(grams) | Balance (cm) | Swingweight | Stiffness | Beam Width (mm) | String Pattern | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Wilson | Pro Staff RF97 v13 | 340 | 357 |
 | Wilson | Pro Staff RF97 v12 | 340 | 357 |
