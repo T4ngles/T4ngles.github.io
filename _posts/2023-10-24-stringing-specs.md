@@ -5,10 +5,10 @@ tags: restring
 categories: table
 ---
 
-##TTD
+## Stringing History
 
->TODO: python script to generate below table from a csv export
->TODO: add auto table highlight/conditional formatting
+>[]TODO: python script to generate below table from a csv export
+>[]TODO: add auto table highlight/conditional formatting
 
 
 | Days | Last Restring | Player | Racquet          | Mains String      | Tension | Crosses String    | Tension |
