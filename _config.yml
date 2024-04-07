@@ -1,9 +1,28 @@
 #Site settings
 title: T4ngles Repos
-description: Showcasing my repos
+author:
+  name: T4ngles
+  email: T4ngles@proton.me
+description: >
+  Showcasing my repos for IT and Cybersecurity
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 #Build settings
+domain: t4ngles.github.io
 baseurl: ""
 url: "https://t4ngles.github.io"
 remote_theme: jekyll/minima
+page_excerpts: true
+show_excerpts: true
+
+
+markdown: kramdown
+
+header_pages:
+  - about.md
+  - contact.md
 

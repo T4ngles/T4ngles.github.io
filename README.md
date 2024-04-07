@@ -1,5 +1,7 @@
 # Repo Logs for IT and Cybersecurity
 
-Logs for IT and CyberSecurity Tools
+Logs for my repos, ideas and adventures in IT and CyberSecurity. Hoping to add to the internet resources out there and also logs for myself to refer to!
 
-More to add here.
+More to add later.
+
+-T4ngles
